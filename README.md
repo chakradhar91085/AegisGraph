@@ -205,5 +205,5 @@ This project is for academic and demonstration purposes.
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Chakradhar Reddy</strong>
+  Built by <strong>Chakradhar Reddy</strong>
 </p>
